@@ -1,0 +1,7 @@
+PyMuPDF
+networkx
+numpy
+sentence-transformers
+scikit-learn
+google-genai
+python-dotenv
